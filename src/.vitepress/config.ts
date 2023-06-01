@@ -2,11 +2,11 @@ import { defineConfig } from '@jcamp/vitepress-blog-theme/config'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'VitePress Blog Demo',
-  description: 'A VitePress Blog Theme',
+  title: 'Codebrainr Blog',
+  description: 'Yet another personal blog.',
   themeConfig: {
     blog: {
-      title: 'My AI Written Blog',
+      title: 'Manuel S. Martone Blog',
       description: 'All these articles were written by AI!',
       defaultAuthor: 'AI Writer',
       categoryIcons: {

@@ -1,16 +1,16 @@
 {
-  "name": "vitepress-blog-init",
+  "name": "codebrainr.github.io",
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://github.com/jcamp-code/starter-vitepress-blog",
+  "homepage": "https://github.com/hoghweed/codebrainr.github.io",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jcamp-code/starter-vitepress-blog.git"
+    "url": "git+https://github.com/hoghweed/codebrainr.github.io.git"
   },
   "devDependencies": {
     "@jcamp/vitepress-blog-theme": "0.3.0",
-    "vitepress": "1.0.0-alpha.74",
-    "vue": "^3.2.47"
+    "vitepress": "1.0.0-beta.1",
+    "vue": "^3.3.4"
   },
   "scripts": {
     "dev": "vitepress dev src",
@@ -32,5 +32,8 @@
       "tailwindcss": {},
       "autoprefixer": {}
     }
+  },
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
   }
 }
