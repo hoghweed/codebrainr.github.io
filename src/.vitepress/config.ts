@@ -2,6 +2,7 @@ import { defineConfig } from '@jcamp/vitepress-blog-theme/config'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: 'https://codebrainr.github.io/',
   title: 'Codebrainr Blog',
   description: 'Yet another personal blog.',
   themeConfig: {
