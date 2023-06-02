@@ -1,5 +1,6 @@
 ---
 name: AI Writer
+gravatar: eca93da2c67aadafe35d477aa8f454b8
 avatar: https://cdn-icons-png.flaticon.com/64/149/149071.png
 ---
 
