@@ -8,7 +8,7 @@ export default defineConfig({
     blog: {
       title: 'Manuel S. Martone Blog',
       description: 'All these articles were written by AI!',
-      defaultAuthor: 'AI Writer',
+      defaultAuthor: 'manuel-martone',
       categoryIcons: {
         article: 'i-[heroicons-outline/book-open]',
         tutorial: 'i-[heroicons-outline/academic-cap]',
