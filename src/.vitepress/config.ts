@@ -66,7 +66,15 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/jcamp-code/vitepress-blog-theme',
+        link: 'https://github.com/hoghweed',
+      },
+      {
+        icon: 'twitter',
+        link: 'https://twitter.com/codebrainr',
+      },
+      {
+        icon: 'linkedin',
+        link: 'https://www.linkedin.com/in/manuelmartone/',
       },
     ],
   },
