@@ -2,11 +2,6 @@
   "name": "hoghweed.github.io",
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://github.com/hoghweed/codebrainr.github.io",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hoghweed/codebrainr.github.io.git"
-  },
   "devDependencies": {
     "@jcamp/vitepress-blog-theme": "0.3.0",
     "vitepress": "1.0.0-beta.1",
